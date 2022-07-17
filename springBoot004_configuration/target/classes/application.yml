@@ -1,0 +1,11 @@
+server:
+  port: 8083
+
+baseDir: /usr/local/fire
+
+center:
+  curData: ${basedir}/data
+
+zjh:
+  hobby: "1\t2\t"
+  name: zSSS

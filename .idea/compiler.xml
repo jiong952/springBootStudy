@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springBoot001" />
+        <module name="springBoot006_mybatis" />
+        <module name="springBoot002" />
+        <module name="springBoot004_configuration" />
+        <module name="springBoot009_SSMP" />
+        <module name="springBoot003" />
+        <module name="springBoot004_juint" />
+        <module name="juint" />
+        <module name="springBoot008_MP_ali" />
+        <module name="springBoot007_MP" />
+        <module name="springBoot008_Druid" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="juint" target="1.8" />
+      <module name="springBoot001" target="1.8" />
+      <module name="springBoot001 (1)" target="1.8" />
+      <module name="springBoot002" target="1.8" />
+      <module name="springBoot003" target="1.8" />
+      <module name="springBoot004_configuration" target="1.8" />
+      <module name="springBoot004_juint" target="1.8" />
+      <module name="springBoot006_mybatis" target="1.8" />
+      <module name="springBoot007_MP" target="1.8" />
+      <module name="springBoot008_Druid" target="1.8" />
+      <module name="springBoot008_MP_ali" target="1.8" />
+      <module name="springBoot009_SSMP" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springBoot001" options="-parameters" />
+      <module name="springBoot001 (1)" options="-parameters" />
+      <module name="springBoot003" options="-parameters" />
+      <module name="springBoot004_configuration" options="-parameters" />
+      <module name="springBoot007_MP" options="-parameters" />
+      <module name="springBoot009_SSMP" options="-parameters" />
+    </option>
+  </component>
+</project>

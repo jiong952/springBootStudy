@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springBoot005_juint/juint.iml" filepath="$PROJECT_DIR$/springBoot005_juint/juint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBoot001/springBoot001.iml" filepath="$PROJECT_DIR$/springBoot001/springBoot001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBoot002/springBoot002.iml" filepath="$PROJECT_DIR$/springBoot002/springBoot002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBoot003/springBoot003.iml" filepath="$PROJECT_DIR$/springBoot003/springBoot003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBoot004_configuration/springBoot004_configuration.iml" filepath="$PROJECT_DIR$/springBoot004_configuration/springBoot004_configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/juint/springBoot004_juint.iml" filepath="$PROJECT_DIR$/juint/springBoot004_juint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBoot006_mybatis/springBoot006_mybatis.iml" filepath="$PROJECT_DIR$/springBoot006_mybatis/springBoot006_mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBoot007_MP/springBoot007_MP.iml" filepath="$PROJECT_DIR$/springBoot007_MP/springBoot007_MP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBoot008_Druid/springBoot008_Druid.iml" filepath="$PROJECT_DIR$/springBoot008_Druid/springBoot008_Druid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBoot008_MP_ali/springBoot008_MP_ali.iml" filepath="$PROJECT_DIR$/springBoot008_MP_ali/springBoot008_MP_ali.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBoot009_SSMP/springBoot009_SSMP.iml" filepath="$PROJECT_DIR$/springBoot009_SSMP/springBoot009_SSMP.iml" />
+    </modules>
+  </component>
+</project>
